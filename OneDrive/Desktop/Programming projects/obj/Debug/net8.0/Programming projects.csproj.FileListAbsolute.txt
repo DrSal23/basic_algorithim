@@ -1,0 +1,15 @@
+C:\Users\saleh\OneDrive\Desktop\Programming projects\obj\Debug\net8.0\Programming projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saleh\OneDrive\Desktop\Programming projects\obj\Debug\net8.0\Programming projects.AssemblyInfoInputs.cache
+C:\Users\saleh\OneDrive\Desktop\Programming projects\obj\Debug\net8.0\Programming projects.AssemblyInfo.cs
+C:\Users\saleh\OneDrive\Desktop\Programming projects\obj\Debug\net8.0\Programming projects.csproj.CoreCompileInputs.cache
+C:\Users\saleh\OneDrive\Desktop\Programming projects\obj\Debug\net8.0\Programming projects.sourcelink.json
+C:\Users\saleh\OneDrive\Desktop\Programming projects\bin\Debug\net8.0\Programming projects.exe
+C:\Users\saleh\OneDrive\Desktop\Programming projects\bin\Debug\net8.0\Programming projects.deps.json
+C:\Users\saleh\OneDrive\Desktop\Programming projects\bin\Debug\net8.0\Programming projects.runtimeconfig.json
+C:\Users\saleh\OneDrive\Desktop\Programming projects\bin\Debug\net8.0\Programming projects.dll
+C:\Users\saleh\OneDrive\Desktop\Programming projects\bin\Debug\net8.0\Programming projects.pdb
+C:\Users\saleh\OneDrive\Desktop\Programming projects\obj\Debug\net8.0\Programming projects.dll
+C:\Users\saleh\OneDrive\Desktop\Programming projects\obj\Debug\net8.0\refint\Programming projects.dll
+C:\Users\saleh\OneDrive\Desktop\Programming projects\obj\Debug\net8.0\Programming projects.pdb
+C:\Users\saleh\OneDrive\Desktop\Programming projects\obj\Debug\net8.0\Programming projects.genruntimeconfig.cache
+C:\Users\saleh\OneDrive\Desktop\Programming projects\obj\Debug\net8.0\ref\Programming projects.dll
